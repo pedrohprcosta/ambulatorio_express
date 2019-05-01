@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ambulatorio</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="entrar1">Entrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar1">Cadastrar</string>
+    <string name="consultar">Consultar</string>
+    <string name="excluir">Excluir</string>
+    <string name="atualizar">Atualizar</string>
+</resources>
